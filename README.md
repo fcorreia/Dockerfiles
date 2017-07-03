@@ -1,2 +1,2 @@
-# Dockerfiles
-Dockerfiles doen by me
+# DockerFiles
+A collection of dockerfiles
